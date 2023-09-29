@@ -1,0 +1,27 @@
+button {
+  width: 250px;
+  height: 80px;
+  font-size: 25px;
+  font-family: Robot, sans-derif;
+  font-weight: bold;
+  color: white;
+  border: 2px solid white;
+  border-radius: 15px;
+  cursor: pointer;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+button:hover {
+  background-color: #913595;
+}
+
+.boton-clic {
+  background-color: #002ead;
+}
+.boton-reiniciar {
+  background-color: #002ead;
+}
