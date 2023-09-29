@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/contador-de-clics/static/css/main.7b65e5bf.css",
+    "main.js": "/contador-de-clics/static/js/main.e3c582d9.js",
+    "static/js/787.74cd1a3b.chunk.js": "/contador-de-clics/static/js/787.74cd1a3b.chunk.js",
+    "static/media/cliques por segundo cps test testar quantos cliques por segundo.jpg": "/contador-de-clics/static/media/cliques por segundo cps test testar quantos cliques por segundo.14044ec5d004d34b0c4a.jpg",
+    "index.html": "/contador-de-clics/index.html",
+    "main.7b65e5bf.css.map": "/contador-de-clics/static/css/main.7b65e5bf.css.map",
+    "main.e3c582d9.js.map": "/contador-de-clics/static/js/main.e3c582d9.js.map",
+    "787.74cd1a3b.chunk.js.map": "/contador-de-clics/static/js/787.74cd1a3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b65e5bf.css",
+    "static/js/main.e3c582d9.js"
+  ]
+}
